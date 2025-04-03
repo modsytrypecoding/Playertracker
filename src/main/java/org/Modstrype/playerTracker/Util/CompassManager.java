@@ -50,7 +50,7 @@ public class CompassManager {
 
         Location targetLoc = nearest.getLocation();
 
-        // Nur Overworld
+
         if (player.getWorld().getEnvironment() != World.Environment.NORMAL) return;
 
         player.setCompassTarget(targetLoc);
