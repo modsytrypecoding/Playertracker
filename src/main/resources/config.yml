@@ -1,0 +1,10 @@
+testmode: false #Falls keine Spieler online sind
+
+messages:
+  only-players: "&cNur Spieler können diesen Befehl ohne Zielspieler nutzen."
+  no-permission: "&cDu hast keine Berechtigung, diesen Befehl zu verwenden."
+  give-success: "&aDu hast einen Player Tracker erhalten!"
+  give-success-other: "&aDu hast %player% einen Player Tracker gegeben."
+  receive-notice: "&bDu hast einen Player Tracker von einem Admin erhalten."
+  player-not-found: "&cSpieler '%player%' wurde nicht gefunden oder ist offline."
+  usage: "&7Benutzung: /playertracker [Spielername]"2

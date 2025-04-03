@@ -1,0 +1,8 @@
+name: PlayerTracker
+version: '1.0-SNAPSHOT'
+main: org.Modstrype.playerTracker.Main.Main
+api-version: '1.21'
+author: ModstrypeCoding
+commands:
+  playerTracker:
+    description: Gibt dir einen Player Tracker Kompass.
